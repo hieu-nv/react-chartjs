@@ -1,0 +1,17 @@
+{
+  "name": "root",
+  "version": "0.0.0",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "repository": {
+    "url": "https://github.com/hieu-nv/react-chartjs.git"
+  },
+  "scripts": {
+    "bootstrap": "lerna bootstrap"
+  },
+  "devDependencies": {
+    "lerna": "^3.3.2"
+  }
+}
