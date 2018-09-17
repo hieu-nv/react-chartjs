@@ -9,7 +9,8 @@
     "url": "https://github.com/hieu-nv/react-chartjs.git"
   },
   "scripts": {
-    "bootstrap": "lerna bootstrap"
+    "bootstrap": "lerna bootstrap",
+    "tsc": "tsc"
   },
   "husky": {
     "hooks": {
